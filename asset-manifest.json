@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/webfinal-122/static/css/main.c963f31f.css",
+    "main.js": "/webfinal-122/static/js/main.4af0f3cb.js",
+    "static/js/787.cbf1a11a.chunk.js": "/webfinal-122/static/js/787.cbf1a11a.chunk.js",
+    "static/media/disco.webp": "/webfinal-122/static/media/disco.8e1ab4989567e4d1b299.webp",
+    "static/media/audifonos.jpg": "/webfinal-122/static/media/audifonos.ce9e18f799d12503e274.jpg",
+    "static/media/mause.jpg": "/webfinal-122/static/media/mause.49e2479e2cc3101dc79d.jpg",
+    "static/media/m1.avif": "/webfinal-122/static/media/m1.ec403886616995a56793.avif",
+    "static/media/m3.webp": "/webfinal-122/static/media/m3.4a8328688a6be91da16a.webp",
+    "static/media/m2.avif": "/webfinal-122/static/media/m2.ce96de1e776fb5f1346b.avif",
+    "static/media/monitor.jpg": "/webfinal-122/static/media/monitor.ac65f39bb93e6b847828.jpg",
+    "static/media/fuente.jpg": "/webfinal-122/static/media/fuente.53a2d8c5c76cdd661386.jpg",
+    "static/media/login.png": "/webfinal-122/static/media/login.64840f86441cfbdd3986.png",
+    "static/media/poli1.jpg": "/webfinal-122/static/media/poli1.4116426e3306bb99b683.jpg",
+    "static/media/vr.jpg": "/webfinal-122/static/media/vr.84636b1d16c44a301d50.jpg",
+    "static/media/lector.jpg": "/webfinal-122/static/media/lector.c1059a4c5fc580fdf8c3.jpg",
+    "static/media/impresora.jpg": "/webfinal-122/static/media/impresora.a3035e4da62426e57da8.jpg",
+    "static/media/microfono.jpg": "/webfinal-122/static/media/microfono.ca73b11511d804e75385.jpg",
+    "index.html": "/webfinal-122/index.html",
+    "main.c963f31f.css.map": "/webfinal-122/static/css/main.c963f31f.css.map",
+    "main.4af0f3cb.js.map": "/webfinal-122/static/js/main.4af0f3cb.js.map",
+    "787.cbf1a11a.chunk.js.map": "/webfinal-122/static/js/787.cbf1a11a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c963f31f.css",
+    "static/js/main.4af0f3cb.js"
+  ]
+}
